@@ -17,4 +17,4 @@ The folders for holding certain outputs:\
 ...\
 **Notes for setup / reproduction**\
 Get a census API key from https://api.census.gov/data/key_signup.html\
-Random seed (2000) for resampling and standard errors\
+Random seed (2000) for resampling and standard errors
