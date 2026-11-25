@@ -1,0 +1,23 @@
+city,first_cap_effective,pre_2016,never_in_effect,cap_strength,source,notes
+Mountain View,2016-12-23,FALSE,FALSE,strong,https://mountainview.gov/our-city/departments/housing/rent-stabilization/outreach-and-information/faqs,City FAQ: CSFRA (Measure V) effective Dec 23 2016
+Richmond,2016-12-30,FALSE,FALSE,strong,https://richmondca.gov/3476/Laws-and-Regulations,City page lists the Fair Rent ordinance (Measure L) as 12/30/2016
+Inglewood,2019-03-05,FALSE,FALSE,strong,https://dpw.lacounty.gov/epd/tf/Attachments/Minutes_Attachments/2020_Attachments/Housing_Protection_Dept_Irwindale_082020.pdf,City of Inglewood notice (hosted by LA County): 5% moratorium Mar 5 2019; permanent Ord. 20-03 effective Dec 5 2019
+Alameda,2019-09-01,FALSE,FALSE,strong,https://alamedaca.gov/Shortcut-Content/News-Media/Alameda-Reaffirms-Local-Rent-Control-Protections-for-150-Rental-Housing-Units,City: annual cap (70% of CPI) since Sept 2019 (Ord. 3246 adopted Jul 16 2019); 2016 Ord. 3148 had rent review but no hard cap
+Baldwin Park,2019-11-06,FALSE,FALSE,strong,https://codelibrary.amlegal.com/codes/baldwinpark/latest/baldwinpark_ca/0-0-0-18008,Official city code: permanent Ord. 1447 passed Oct 21 2020; urgency Ord. 1444 approved Nov 6 2019 per city clerk (coloradoboulevard.net)
+Santa Ana,2021-11-19,FALSE,FALSE,strong,https://www.santa-ana.org/santa-ana-city-council-adopts-rent-stabilization-and-just-cause-eviction-ordinances-effective-nov-19,City press release
+Oxnard,2022-06-02,FALSE,FALSE,strong,https://www.oxnard.org/city-department/housing/rso/,City page: adopted Apr 13 2022; in effect Jun 2 2022; 4% cap
+Pomona,2022-08-01,FALSE,FALSE,strong,https://pomona.prod.govaccess.org/government/departments/neighborhood-services/rent-stabilization-program,City page: urgency Ord. 4320
+Antioch,2022-11-11,FALSE,FALSE,strong,https://www.antiochca.gov/?p=72294,City page
+Pasadena,2022-12-22,FALSE,FALSE,strong,https://www.cityofpasadena.net/rent-stabilization/measure-h/,City page: Measure H
+Concord,2024-04-19,FALSE,FALSE,strong,https://www.publicnow.com/view/040DE5EF12624D3D09EB5F5753B019246996C2E3,City of Concord press release (republished); adopted Mar 5 2024; cap loosened to 5% effective May 22 2025
+Salinas,2025-01-01,FALSE,FALSE,strong,https://www.salinas.gov/Residents/Community/Housing-Community-Development/Rental-Registration-Rent-Stabilization,City page: operative Jan 1 2025; 2025 repeal suspended by referendum
+Santa Barbara,2026-02-26,FALSE,FALSE,strong,https://santabarbaraca.gov/node/17926,City page: temporary rent moratorium effective Feb 26 2026; after data end
+Santa Rosa,,FALSE,TRUE,,https://electionstats.sonomacounty.ca.gov/ballot_questions/view/263,County registrar: Measure C (to keep the 2016 ordinance) defeated Jun 6 2017; never in effect
+Los Angeles,,TRUE,FALSE,,,RSO long-standing (UDP code link)
+San Francisco,,TRUE,FALSE,,,long-standing
+Oakland,,TRUE,FALSE,,,long-standing
+Berkeley,,TRUE,FALSE,,,long-standing
+San Jose,,TRUE,FALSE,,,long-standing
+Santa Monica,,TRUE,FALSE,,,long-standing
+Hayward,,TRUE,FALSE,,,long-standing
+Thousand Oaks,,TRUE,FALSE,,,long-standing
